@@ -18,4 +18,4 @@ To run the code, open it in VS-Code or any other suitable editor.
 To run the different instructions in the code, a serial number is there in front of each instruction. Enter that serial number and follow the corresponding instructions on the console window.
 
 Important : To search a book, please don't enter space in between the name of a book. Nor, should any book/author/username/password be added which has space b/w its characters.
-		Please use the '_' character instead of adding spaces and keep the first letter after '_'as Capital letter. For eg. Concepts_Of_Physics .
+		Please use the '_' character instead of adding spaces and keep the first letter after every '_'as Capital letter. For eg. Concepts_Of_Physics .
